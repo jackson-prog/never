@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(void）
+{
+    scanf("d%",a);
+    scanf("d%",b);
+    if(a>b) printf("true(1)");
+    if(a<b) printf("flase(0)");
+   return 0
+}

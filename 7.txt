@@ -1,0 +1,11 @@
+#include<stdio.h>  
+int main(void）
+{
+  scanf("d%",a);
+  printf("please enter your height  :")
+  if(0<a<1=50) printf("short");
+  else(150<a<=170) printf("medium");
+  else(170<a<=180) printf("tall");
+  else(a>180) printf("very tall ");
+  return 0
+}
